@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PERFect"]
+	path = PERFect
+	url = https://github.com/cxquy91/perfect
+	shallow = true
+	registered = true
